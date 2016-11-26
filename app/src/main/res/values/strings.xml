@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BreathOfLife</string>
+    <string name="title_activity_breathing">BreathingActivity</string>
+</resources>
